@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awaisshafi6164
-- 👀 I’m interested in software enginering, front end development, back end development and web development.
-- 🌱 I’m currently learning compiling optimzing for c/c++ and data structures. 
-- 💞️ I’m looking to collaborate on any work related to software development. 
+- 👀 I’m interested in software engineering, front-end development, back-end development, Mobile application development, and web development.
+- 🌱 I’m currently learning Mobile Application development and some new frameworks which is Kotlin and React Native. 
+- 💞️ I’m looking to collaborate on any work related to software development.
 - 📫 How to reach me: Phone No: +923408898238 -> Whatsapp: 03408898238 -> Gmail: awaisshafi6164@gmail.com
 Follow me on Insta: @m._.awais._.shafi
 
