@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaisshafi6164" alt="awaisshafi6164" /></a> </p>
 
-- 🔭 I’m currently working on [Everyday Chronicle | An automated diary](Final Year Project)
+- 🔭 I’m currently working on Everyday Chronicle | An automated diary(Final Year Project)
 
 - 🌱 I’m currently learning **Flutter, UI/UX, Dart, Version Control, and AI**
 
