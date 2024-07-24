@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Everyday Chronicle | An automated diary(Final Year Project)<br><br>🌱 I’m currently learning Javascript, React Native, Typescript, and React JS<br><br>👨‍💻 All of my projects are available on GitHub<br><br>📫 Have any queries? Feel free to reach me via Email: awaisshafi.pk@gmail.com<br><br>⚡ Fun fact I love Coding 😘</p>
+<p align="left">🔭 I’m currently an Associate Software Engineer at Elixir TechnologiesA<br><br>🌱 I’m currently learning Agile, Devops, Advance C++<br><br>👨‍💻 All of my projects are available on GitHub<br><br>📫 Have any queries? Feel free to reach me via Email: awaisshafi.pk@gmail.com<br><br>⚡ Fun fact I love Coding 😘</p>
 
 ###
 
